@@ -1,1 +1,1 @@
-So sánh thu?t toán kmeans clustering t? code v?i s? d?ng c?a thu vi?n Sklearn.
+Kmeans self-written and Kmeans SKLearn
